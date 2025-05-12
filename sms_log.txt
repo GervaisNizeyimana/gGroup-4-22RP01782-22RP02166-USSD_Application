@@ -1,0 +1,16 @@
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_c16d0e2ff2932b76dec7f7764fc30f00","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_212d0a1049e8fe7d45f021291e46c107","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_d12385f1a5893ca9acc5566348c3947c","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_82fbf4fe96f8227f858220203c8e0d09","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_d92c57d2bd78affeb4e6d2d72ba43c0e","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_81b7a12682cf833f4cfcc6345669706a","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_73ff6c046888454aa1c2930ef983d64b","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_d04248d7d5048c9497d63e652523a391","networkCode":"99999"}
+{"phoneNumber":"+250789239839","serviceCode":"*384*39909#","text":"","sessionId":"ATUid_09a6626dc505b2128501e00c17f4a022","networkCode":"99999"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
+{"phoneNumber":"+250786139330","failureReason":"DeliveryFailure","retryCount":"0","id":"ATXid_84a616c8582c11bd1bb898a1106ea971","status":"Failed","networkCode":"63510"}
